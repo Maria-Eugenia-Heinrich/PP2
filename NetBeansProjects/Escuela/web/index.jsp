@@ -21,9 +21,7 @@
   <li class="nav-item">
    <a class="nav-link" href="#">Profesores</a>
     </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Talleres</a>
-    </li>
+  
  </ul>
  
 </ul>
